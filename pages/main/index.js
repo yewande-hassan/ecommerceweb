@@ -1,9 +1,12 @@
-import React from 'react'
+import React from 'react';
 
-function Hello() {
+function Index() {
   return (
-    <div>Hello People</div>
+      <>
+    <h1>Products Available</h1>
+    <button>Buy me</button>
+    </>
   )
 }
 
-export default Hello
+export default Index
